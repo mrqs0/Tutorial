@@ -28,7 +28,6 @@ ol li {
     color:azure;
     display: inline-block;
     margin-right: 15px;
-    margin-top: 5em;
 }
 
 ol {
@@ -46,4 +45,8 @@ ol li a {
 
 ol li a:hover {
     color: burlywood;
+}
+
+.list {
+    margin-top: 5em;
 }
