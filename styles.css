@@ -2,6 +2,10 @@ html {
     scroll-behavior: smooth;
 }
 
+@media (max-width: 768px) {
+  /* Adjust font sizes and layout for smaller screens */
+}
+
 body {
     background-image: url('ezgif.com-video-to-gif (1).gif');
     background-size: 100% 100%;
@@ -12,14 +16,14 @@ body {
 h1 {
     text-align: center;
     font-family: Rockwell Condensed;
-    font-size: 150px;
+    font-size: 2em;
     color: beige;
     margin-bottom: 22%;
 }
 
 ol li {
     list-style-type: none;
-    font-size: 30px;
+    font-size: 1.2em;
     font-family: Bell MT;
     color:azure;
     display: inline-block;
