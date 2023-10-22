@@ -58,6 +58,6 @@ ol li a:hover {
     text-align: center;
 }
 
-.list:hover {
+.list ol li:hover {
     color: burlywood;
 }
