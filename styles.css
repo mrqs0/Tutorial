@@ -6,6 +6,8 @@ html {
   /* Adjust font sizes and layout for smaller screens */
 }
 
+font-family: 'Font Name', Playfair Display;
+
 body {
     background-image: url('ezgif.com-video-to-gif (1).gif');
     background-size: 100% 100%;
@@ -15,7 +17,7 @@ body {
 
 h1 {
     text-align: center;
-    font-family: Rockwell Condensed;
+    font-family: Playfair Display;
     font-size: 2em;
     color: beige;
     margin-bottom: 40%;
